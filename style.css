@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(80, 58, 59);
+  }
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: xx-large;
+    color: rgb(8, 8, 8);
+    padding-left: 10px;
+}
